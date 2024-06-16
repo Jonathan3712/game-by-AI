@@ -1,4 +1,4 @@
-# game-by-AI
+### game-by-AI
 
 # HOW AI CAN BE USED
 
